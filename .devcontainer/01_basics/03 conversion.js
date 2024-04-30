@@ -13,6 +13,8 @@ let valueInNumbr = Number(scor)
 console.log(typeof valueInNumbr);
 console.log(valueInNumbr);
 
+
+
 // if we convert 33 then it will be converted in 33 but when we convert 33abc then it gives the output NaN(not a number)
 // nut the type of NaN is number
 // true => 1, false=> 0
@@ -22,3 +24,5 @@ console.log(valueInNumbr);
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
+
+// it is the conversion of the datatypes we can easily convert the data types of the variables as required but after that make sure to check the "typeof" of the variable.
